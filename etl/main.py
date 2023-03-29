@@ -15,6 +15,9 @@ def read_dump(path):
         return json.loads(fin.read())
 
 
+name_mapper = read_dump("../config/name_mapper.json")
+
+
 def filter_message(message):
     return message["type"] == "message" and message.get("via_bot", "").startswith("@rus_") \
            and len(message.get("text", [])) == 3 and message["text"][0].startswith("My ")
@@ -22,25 +25,30 @@ def filter_message(message):
 
 def payload_to_me_mapper(message):
     return MeasureEntry(
-        message.get("from", "unknown"),
+        name_mapper.get(message.get("from", "unknown"), "unknown"),
         int(message.get("text")[1]["text"][:-2]),
         message.get("date").split("T")[0]
     )
 
 
+def date_results_mapper(measure_list_iterator):
+    measure_list = list(measure_list_iterator)
+    sum_ = sum(map(lambda x: x.length, measure_list))
+    return {
+        "measures": [dataclasses.asdict(x) for x in measure_list],
+        "sum": sum_,
+        "win": sum_ >= 100
+    }
+
+
 def main():
     r_json = read_dump("../result.json")
     measures = set(map(payload_to_me_mapper, filter(filter_message, r_json.get("messages", []))))
-    dates = list(sorted(set(map(lambda x: x.date, measures))))
-    print(len(measures), len(dates))
     r_grouped = groupby(sorted(measures, key=lambda x: x.date), lambda x: x.date)
-    counter = 0
-    for k, v in r_grouped:
-        l = list(v)
-        print(l)
-        counter += 1 if sum(map(lambda x: x.length, l)) >= 100 else 0
 
-    print(counter)
+    transformed = {k: date_results_mapper(v) for k, v in r_grouped}
+
+    print(json.dumps(transformed))
 
 
 if __name__ == "__main__":
