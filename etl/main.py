@@ -48,7 +48,8 @@ def main():
 
     transformed = {k: date_results_mapper(v) for k, v in r_grouped}
 
-    print(json.dumps(transformed))
+    with open("../transformed.json", "w") as fout:
+        fout.write(json.dumps(transformed))
 
 
 if __name__ == "__main__":
