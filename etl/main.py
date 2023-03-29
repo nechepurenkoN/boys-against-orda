@@ -20,7 +20,7 @@ name_mapper = read_dump("../config/name_mapper.json")
 
 def filter_message(message):
     return message["type"] == "message" and message.get("via_bot", "").startswith("@rus_") \
-           and len(message.get("text", [])) == 3 and message["text"][0].startswith("My ")
+           and len(message.get("text", [])) == 3 and message["text"][0].startswith("My ") and "forwarded_from" not in message
 
 
 def payload_to_me_mapper(message):
