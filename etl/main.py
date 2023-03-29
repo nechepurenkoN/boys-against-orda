@@ -1,5 +1,6 @@
 import dataclasses
 import json
+from itertools import groupby
 
 
 @dataclasses.dataclass(frozen=True, eq=True)
@@ -32,6 +33,14 @@ def main():
     measures = set(map(payload_to_me_mapper, filter(filter_message, r_json.get("messages", []))))
     dates = list(sorted(set(map(lambda x: x.date, measures))))
     print(len(measures), len(dates))
+    r_grouped = groupby(sorted(measures, key=lambda x: x.date), lambda x: x.date)
+    counter = 0
+    for k, v in r_grouped:
+        l = list(v)
+        print(l)
+        counter += 1 if sum(map(lambda x: x.length, l)) >= 100 else 0
+
+    print(counter)
 
 
 if __name__ == "__main__":
