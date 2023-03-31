@@ -1,0 +1,2722 @@
+{
+  "2023-01-19": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 19,
+        "date": "2023-01-19"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 9,
+        "date": "2023-01-19"
+      }
+    ],
+    "sum": 28,
+    "win": false
+  },
+  "2023-01-20": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 46,
+        "date": "2023-01-20"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 20,
+        "date": "2023-01-20"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 21,
+        "date": "2023-01-20"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 48,
+        "date": "2023-01-20"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 38,
+        "date": "2023-01-20"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 3,
+        "date": "2023-01-20"
+      }
+    ],
+    "sum": 176,
+    "win": true
+  },
+  "2023-01-21": {
+    "measures": [
+      {
+        "boy": "Sasha Terekhov",
+        "length": 18,
+        "date": "2023-01-21"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 7,
+        "date": "2023-01-21"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 26,
+        "date": "2023-01-21"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 24,
+        "date": "2023-01-21"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 22,
+        "date": "2023-01-21"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 7,
+        "date": "2023-01-21"
+      }
+    ],
+    "sum": 104,
+    "win": true
+  },
+  "2023-01-22": {
+    "measures": [
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 27,
+        "date": "2023-01-22"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-01-22"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 24,
+        "date": "2023-01-22"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 17,
+        "date": "2023-01-22"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 9,
+        "date": "2023-01-22"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 13,
+        "date": "2023-01-22"
+      }
+    ],
+    "sum": 96,
+    "win": false
+  },
+  "2023-01-23": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 26,
+        "date": "2023-01-23"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 11,
+        "date": "2023-01-23"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-01-23"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 4,
+        "date": "2023-01-23"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 6,
+        "date": "2023-01-23"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-01-23"
+      }
+    ],
+    "sum": 67,
+    "win": false
+  },
+  "2023-01-24": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 26,
+        "date": "2023-01-24"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 24,
+        "date": "2023-01-24"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-01-24"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 24,
+        "date": "2023-01-24"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 5,
+        "date": "2023-01-24"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 11,
+        "date": "2023-01-24"
+      }
+    ],
+    "sum": 98,
+    "win": false
+  },
+  "2023-01-25": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 15,
+        "date": "2023-01-25"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 2,
+        "date": "2023-01-25"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 12,
+        "date": "2023-01-25"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 9,
+        "date": "2023-01-25"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-01-25"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-01-25"
+      }
+    ],
+    "sum": 56,
+    "win": false
+  },
+  "2023-01-26": {
+    "measures": [
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-01-26"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 10,
+        "date": "2023-01-26"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 27,
+        "date": "2023-01-26"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 8,
+        "date": "2023-01-26"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 21,
+        "date": "2023-01-26"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 17,
+        "date": "2023-01-26"
+      }
+    ],
+    "sum": 91,
+    "win": false
+  },
+  "2023-01-27": {
+    "measures": [
+      {
+        "boy": "Denis Bazhenov",
+        "length": 50,
+        "date": "2023-01-27"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 0,
+        "date": "2023-01-27"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 10,
+        "date": "2023-01-27"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 13,
+        "date": "2023-01-27"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-01-27"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 23,
+        "date": "2023-01-27"
+      }
+    ],
+    "sum": 102,
+    "win": true
+  },
+  "2023-01-28": {
+    "measures": [
+      {
+        "boy": "Denis Bazhenov",
+        "length": 10,
+        "date": "2023-01-28"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 9,
+        "date": "2023-01-28"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 22,
+        "date": "2023-01-28"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 23,
+        "date": "2023-01-28"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 22,
+        "date": "2023-01-28"
+      }
+    ],
+    "sum": 86,
+    "win": false
+  },
+  "2023-01-29": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 11,
+        "date": "2023-01-29"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 19,
+        "date": "2023-01-29"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 1,
+        "date": "2023-01-29"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 15,
+        "date": "2023-01-29"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 26,
+        "date": "2023-01-29"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-01-29"
+      }
+    ],
+    "sum": 78,
+    "win": false
+  },
+  "2023-01-30": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 26,
+        "date": "2023-01-30"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 20,
+        "date": "2023-01-30"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 5,
+        "date": "2023-01-30"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 25,
+        "date": "2023-01-30"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 15,
+        "date": "2023-01-30"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 22,
+        "date": "2023-01-30"
+      }
+    ],
+    "sum": 113,
+    "win": true
+  },
+  "2023-01-31": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 37,
+        "date": "2023-01-31"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 12,
+        "date": "2023-01-31"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 5,
+        "date": "2023-01-31"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-01-31"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 15,
+        "date": "2023-01-31"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 3,
+        "date": "2023-01-31"
+      }
+    ],
+    "sum": 78,
+    "win": false
+  },
+  "2023-02-01": {
+    "measures": [
+      {
+        "boy": "Denis Bazhenov",
+        "length": 17,
+        "date": "2023-02-01"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 12,
+        "date": "2023-02-01"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 4,
+        "date": "2023-02-01"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 11,
+        "date": "2023-02-01"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 6,
+        "date": "2023-02-01"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 10,
+        "date": "2023-02-01"
+      }
+    ],
+    "sum": 60,
+    "win": false
+  },
+  "2023-02-02": {
+    "measures": [
+      {
+        "boy": "Sasha Terekhov",
+        "length": 3,
+        "date": "2023-02-02"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 22,
+        "date": "2023-02-02"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 22,
+        "date": "2023-02-02"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 22,
+        "date": "2023-02-02"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 47,
+        "date": "2023-02-02"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 6,
+        "date": "2023-02-02"
+      }
+    ],
+    "sum": 122,
+    "win": true
+  },
+  "2023-02-03": {
+    "measures": [
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-02-03"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 26,
+        "date": "2023-02-03"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 19,
+        "date": "2023-02-03"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 38,
+        "date": "2023-02-03"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 10,
+        "date": "2023-02-03"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 3,
+        "date": "2023-02-03"
+      }
+    ],
+    "sum": 108,
+    "win": true
+  },
+  "2023-02-04": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 21,
+        "date": "2023-02-04"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 13,
+        "date": "2023-02-04"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 4,
+        "date": "2023-02-04"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 17,
+        "date": "2023-02-04"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 0,
+        "date": "2023-02-04"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 23,
+        "date": "2023-02-04"
+      }
+    ],
+    "sum": 78,
+    "win": false
+  },
+  "2023-02-05": {
+    "measures": [
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 25,
+        "date": "2023-02-05"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 17,
+        "date": "2023-02-05"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 15,
+        "date": "2023-02-05"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 21,
+        "date": "2023-02-05"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 34,
+        "date": "2023-02-05"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 25,
+        "date": "2023-02-05"
+      }
+    ],
+    "sum": 137,
+    "win": true
+  },
+  "2023-02-06": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 20,
+        "date": "2023-02-06"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 13,
+        "date": "2023-02-06"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 23,
+        "date": "2023-02-06"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 21,
+        "date": "2023-02-06"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 27,
+        "date": "2023-02-06"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 9,
+        "date": "2023-02-06"
+      }
+    ],
+    "sum": 113,
+    "win": true
+  },
+  "2023-02-07": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 4,
+        "date": "2023-02-07"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 27,
+        "date": "2023-02-07"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 2,
+        "date": "2023-02-07"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 4,
+        "date": "2023-02-07"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 1,
+        "date": "2023-02-07"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 11,
+        "date": "2023-02-07"
+      }
+    ],
+    "sum": 49,
+    "win": false
+  },
+  "2023-02-08": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 7,
+        "date": "2023-02-08"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 45,
+        "date": "2023-02-08"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 19,
+        "date": "2023-02-08"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 2,
+        "date": "2023-02-08"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 4,
+        "date": "2023-02-08"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 1,
+        "date": "2023-02-08"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 16,
+        "date": "2023-02-08"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 13,
+        "date": "2023-02-08"
+      }
+    ],
+    "sum": 107,
+    "win": true
+  },
+  "2023-02-09": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 2,
+        "date": "2023-02-09"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 19,
+        "date": "2023-02-09"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 19,
+        "date": "2023-02-09"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 24,
+        "date": "2023-02-09"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 2,
+        "date": "2023-02-09"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 8,
+        "date": "2023-02-09"
+      }
+    ],
+    "sum": 74,
+    "win": false
+  },
+  "2023-02-10": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 9,
+        "date": "2023-02-10"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 19,
+        "date": "2023-02-10"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 0,
+        "date": "2023-02-10"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 8,
+        "date": "2023-02-10"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 11,
+        "date": "2023-02-10"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 21,
+        "date": "2023-02-10"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 13,
+        "date": "2023-02-10"
+      }
+    ],
+    "sum": 81,
+    "win": false
+  },
+  "2023-02-11": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 17,
+        "date": "2023-02-11"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-02-11"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 15,
+        "date": "2023-02-11"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-02-11"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 9,
+        "date": "2023-02-11"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 0,
+        "date": "2023-02-11"
+      }
+    ],
+    "sum": 61,
+    "win": false
+  },
+  "2023-02-12": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 22,
+        "date": "2023-02-12"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 17,
+        "date": "2023-02-12"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 5,
+        "date": "2023-02-12"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-02-12"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 2,
+        "date": "2023-02-12"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 37,
+        "date": "2023-02-12"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 21,
+        "date": "2023-02-12"
+      }
+    ],
+    "sum": 116,
+    "win": true
+  },
+  "2023-02-13": {
+    "measures": [
+      {
+        "boy": "Vadim Davydov",
+        "length": 12,
+        "date": "2023-02-13"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-02-13"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 3,
+        "date": "2023-02-13"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 19,
+        "date": "2023-02-13"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 2,
+        "date": "2023-02-13"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 17,
+        "date": "2023-02-13"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 27,
+        "date": "2023-02-13"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 6,
+        "date": "2023-02-13"
+      }
+    ],
+    "sum": 92,
+    "win": false
+  },
+  "2023-02-14": {
+    "measures": [
+      {
+        "boy": "Vadim Davydov",
+        "length": 28,
+        "date": "2023-02-14"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 16,
+        "date": "2023-02-14"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 13,
+        "date": "2023-02-14"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 22,
+        "date": "2023-02-14"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 7,
+        "date": "2023-02-14"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 13,
+        "date": "2023-02-14"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 14,
+        "date": "2023-02-14"
+      }
+    ],
+    "sum": 113,
+    "win": true
+  },
+  "2023-02-15": {
+    "measures": [
+      {
+        "boy": "Denis Bazhenov",
+        "length": 26,
+        "date": "2023-02-15"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 3,
+        "date": "2023-02-15"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 10,
+        "date": "2023-02-15"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 19,
+        "date": "2023-02-15"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 1,
+        "date": "2023-02-15"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 19,
+        "date": "2023-02-15"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 4,
+        "date": "2023-02-15"
+      }
+    ],
+    "sum": 82,
+    "win": false
+  },
+  "2023-02-16": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 27,
+        "date": "2023-02-16"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 8,
+        "date": "2023-02-16"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 23,
+        "date": "2023-02-16"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 21,
+        "date": "2023-02-16"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 9,
+        "date": "2023-02-16"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 6,
+        "date": "2023-02-16"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 27,
+        "date": "2023-02-16"
+      }
+    ],
+    "sum": 121,
+    "win": true
+  },
+  "2023-02-17": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 22,
+        "date": "2023-02-17"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 7,
+        "date": "2023-02-17"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 17,
+        "date": "2023-02-17"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 22,
+        "date": "2023-02-17"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 24,
+        "date": "2023-02-17"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 9,
+        "date": "2023-02-17"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 6,
+        "date": "2023-02-17"
+      }
+    ],
+    "sum": 107,
+    "win": true
+  },
+  "2023-02-18": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 26,
+        "date": "2023-02-18"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 11,
+        "date": "2023-02-18"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 17,
+        "date": "2023-02-18"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 26,
+        "date": "2023-02-18"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 23,
+        "date": "2023-02-18"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 11,
+        "date": "2023-02-18"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 12,
+        "date": "2023-02-18"
+      }
+    ],
+    "sum": 126,
+    "win": true
+  },
+  "2023-02-19": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 19,
+        "date": "2023-02-19"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 9,
+        "date": "2023-02-19"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 18,
+        "date": "2023-02-19"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 3,
+        "date": "2023-02-19"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 12,
+        "date": "2023-02-19"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 11,
+        "date": "2023-02-19"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 9,
+        "date": "2023-02-19"
+      }
+    ],
+    "sum": 81,
+    "win": false
+  },
+  "2023-02-20": {
+    "measures": [
+      {
+        "boy": "Denis Bazhenov",
+        "length": 3,
+        "date": "2023-02-20"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 21,
+        "date": "2023-02-20"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 20,
+        "date": "2023-02-20"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 46,
+        "date": "2023-02-20"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 48,
+        "date": "2023-02-20"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 21,
+        "date": "2023-02-20"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 38,
+        "date": "2023-02-20"
+      }
+    ],
+    "sum": 197,
+    "win": true
+  },
+  "2023-02-21": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 24,
+        "date": "2023-02-21"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 22,
+        "date": "2023-02-21"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 7,
+        "date": "2023-02-21"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 18,
+        "date": "2023-02-21"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 8,
+        "date": "2023-02-21"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 26,
+        "date": "2023-02-21"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 7,
+        "date": "2023-02-21"
+      }
+    ],
+    "sum": 112,
+    "win": true
+  },
+  "2023-02-22": {
+    "measures": [
+      {
+        "boy": "Vadim Davydov",
+        "length": 26,
+        "date": "2023-02-22"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 27,
+        "date": "2023-02-22"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-02-22"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 17,
+        "date": "2023-02-22"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 9,
+        "date": "2023-02-22"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 24,
+        "date": "2023-02-22"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 13,
+        "date": "2023-02-22"
+      }
+    ],
+    "sum": 122,
+    "win": true
+  },
+  "2023-02-23": {
+    "measures": [
+      {
+        "boy": "Vadim Davydov",
+        "length": 23,
+        "date": "2023-02-23"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 26,
+        "date": "2023-02-23"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 11,
+        "date": "2023-02-23"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-02-23"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 4,
+        "date": "2023-02-23"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 6,
+        "date": "2023-02-23"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-02-23"
+      }
+    ],
+    "sum": 90,
+    "win": false
+  },
+  "2023-02-24": {
+    "measures": [
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 24,
+        "date": "2023-02-24"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-02-24"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 24,
+        "date": "2023-02-24"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 5,
+        "date": "2023-02-24"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 11,
+        "date": "2023-02-24"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 26,
+        "date": "2023-02-24"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 23,
+        "date": "2023-02-24"
+      }
+    ],
+    "sum": 121,
+    "win": true
+  },
+  "2023-02-25": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 15,
+        "date": "2023-02-25"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 2,
+        "date": "2023-02-25"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 12,
+        "date": "2023-02-25"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 9,
+        "date": "2023-02-25"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 9,
+        "date": "2023-02-25"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-02-25"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-02-25"
+      }
+    ],
+    "sum": 65,
+    "win": false
+  },
+  "2023-02-26": {
+    "measures": [
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-02-26"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 10,
+        "date": "2023-02-26"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 27,
+        "date": "2023-02-26"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 8,
+        "date": "2023-02-26"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 21,
+        "date": "2023-02-26"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 17,
+        "date": "2023-02-26"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 10,
+        "date": "2023-02-26"
+      }
+    ],
+    "sum": 101,
+    "win": true
+  },
+  "2023-02-27": {
+    "measures": [
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 23,
+        "date": "2023-02-27"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 0,
+        "date": "2023-02-27"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 50,
+        "date": "2023-02-27"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 0,
+        "date": "2023-02-27"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 10,
+        "date": "2023-02-27"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 13,
+        "date": "2023-02-27"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-02-27"
+      }
+    ],
+    "sum": 102,
+    "win": true
+  },
+  "2023-02-28": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 4,
+        "date": "2023-02-28"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 10,
+        "date": "2023-02-28"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 1,
+        "date": "2023-02-28"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 9,
+        "date": "2023-02-28"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 22,
+        "date": "2023-02-28"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 23,
+        "date": "2023-02-28"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 22,
+        "date": "2023-02-28"
+      }
+    ],
+    "sum": 91,
+    "win": false
+  },
+  "2023-03-01": {
+    "measures": [
+      {
+        "boy": "Vadim Davydov",
+        "length": 2,
+        "date": "2023-03-01"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 17,
+        "date": "2023-03-01"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 12,
+        "date": "2023-03-01"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 6,
+        "date": "2023-03-01"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 4,
+        "date": "2023-03-01"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 11,
+        "date": "2023-03-01"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 10,
+        "date": "2023-03-01"
+      }
+    ],
+    "sum": 62,
+    "win": false
+  },
+  "2023-03-02": {
+    "measures": [
+      {
+        "boy": "Sasha Terekhov",
+        "length": 3,
+        "date": "2023-03-02"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 6,
+        "date": "2023-03-02"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 1,
+        "date": "2023-03-02"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 22,
+        "date": "2023-03-02"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 22,
+        "date": "2023-03-02"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 47,
+        "date": "2023-03-02"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 22,
+        "date": "2023-03-02"
+      }
+    ],
+    "sum": 123,
+    "win": true
+  },
+  "2023-03-03": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 19,
+        "date": "2023-03-03"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 38,
+        "date": "2023-03-03"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 10,
+        "date": "2023-03-03"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 15,
+        "date": "2023-03-03"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 3,
+        "date": "2023-03-03"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-03-03"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 26,
+        "date": "2023-03-03"
+      }
+    ],
+    "sum": 123,
+    "win": true
+  },
+  "2023-03-04": {
+    "measures": [
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 0,
+        "date": "2023-03-04"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 21,
+        "date": "2023-03-04"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 13,
+        "date": "2023-03-04"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 10,
+        "date": "2023-03-04"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 4,
+        "date": "2023-03-04"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 17,
+        "date": "2023-03-04"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 23,
+        "date": "2023-03-04"
+      }
+    ],
+    "sum": 88,
+    "win": false
+  },
+  "2023-03-05": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 21,
+        "date": "2023-03-05"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 34,
+        "date": "2023-03-05"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 25,
+        "date": "2023-03-05"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 17,
+        "date": "2023-03-05"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 25,
+        "date": "2023-03-05"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 17,
+        "date": "2023-03-05"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 15,
+        "date": "2023-03-05"
+      }
+    ],
+    "sum": 154,
+    "win": true
+  },
+  "2023-03-06": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 21,
+        "date": "2023-03-06"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 27,
+        "date": "2023-03-06"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 9,
+        "date": "2023-03-06"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 20,
+        "date": "2023-03-06"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 13,
+        "date": "2023-03-06"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 23,
+        "date": "2023-03-06"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 2,
+        "date": "2023-03-06"
+      }
+    ],
+    "sum": 115,
+    "win": true
+  },
+  "2023-03-07": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 1,
+        "date": "2023-03-07"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 11,
+        "date": "2023-03-07"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 25,
+        "date": "2023-03-07"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 27,
+        "date": "2023-03-07"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 4,
+        "date": "2023-03-07"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 2,
+        "date": "2023-03-07"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 4,
+        "date": "2023-03-07"
+      }
+    ],
+    "sum": 74,
+    "win": false
+  },
+  "2023-03-08": {
+    "measures": [
+      {
+        "boy": "Denis Bazhenov",
+        "length": 16,
+        "date": "2023-03-08"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 13,
+        "date": "2023-03-08"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 45,
+        "date": "2023-03-08"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 19,
+        "date": "2023-03-08"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 7,
+        "date": "2023-03-08"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 2,
+        "date": "2023-03-08"
+      }
+    ],
+    "sum": 102,
+    "win": true
+  },
+  "2023-03-09": {
+    "measures": [
+      {
+        "boy": "Sasha Terekhov",
+        "length": 19,
+        "date": "2023-03-09"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 24,
+        "date": "2023-03-09"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 8,
+        "date": "2023-03-09"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 19,
+        "date": "2023-03-09"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 2,
+        "date": "2023-03-09"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 18,
+        "date": "2023-03-09"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 2,
+        "date": "2023-03-09"
+      }
+    ],
+    "sum": 92,
+    "win": false
+  },
+  "2023-03-10": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 21,
+        "date": "2023-03-10"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 9,
+        "date": "2023-03-10"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 13,
+        "date": "2023-03-10"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 12,
+        "date": "2023-03-10"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 0,
+        "date": "2023-03-10"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 8,
+        "date": "2023-03-10"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 11,
+        "date": "2023-03-10"
+      }
+    ],
+    "sum": 74,
+    "win": false
+  },
+  "2023-03-11": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 0,
+        "date": "2023-03-11"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 17,
+        "date": "2023-03-11"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-03-11"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 20,
+        "date": "2023-03-11"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 9,
+        "date": "2023-03-11"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 15,
+        "date": "2023-03-11"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-03-11"
+      }
+    ],
+    "sum": 81,
+    "win": false
+  },
+  "2023-03-12": {
+    "measures": [
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 6,
+        "date": "2023-03-12"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 21,
+        "date": "2023-03-12"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 22,
+        "date": "2023-03-12"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 17,
+        "date": "2023-03-12"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 5,
+        "date": "2023-03-12"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 2,
+        "date": "2023-03-12"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 37,
+        "date": "2023-03-12"
+      }
+    ],
+    "sum": 110,
+    "win": true
+  },
+  "2023-03-13": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 17,
+        "date": "2023-03-13"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 6,
+        "date": "2023-03-13"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 12,
+        "date": "2023-03-13"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 27,
+        "date": "2023-03-13"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-03-13"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 3,
+        "date": "2023-03-13"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 19,
+        "date": "2023-03-13"
+      }
+    ],
+    "sum": 90,
+    "win": false
+  },
+  "2023-03-14": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 16,
+        "date": "2023-03-14"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 13,
+        "date": "2023-03-14"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 22,
+        "date": "2023-03-14"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 7,
+        "date": "2023-03-14"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 13,
+        "date": "2023-03-14"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 14,
+        "date": "2023-03-14"
+      }
+    ],
+    "sum": 85,
+    "win": false
+  },
+  "2023-03-15": {
+    "measures": [
+      {
+        "boy": "Sasha Terekhov",
+        "length": 19,
+        "date": "2023-03-15"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 4,
+        "date": "2023-03-15"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 3,
+        "date": "2023-03-15"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 10,
+        "date": "2023-03-15"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 26,
+        "date": "2023-03-15"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 19,
+        "date": "2023-03-15"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 1,
+        "date": "2023-03-15"
+      }
+    ],
+    "sum": 82,
+    "win": false
+  },
+  "2023-03-16": {
+    "measures": [
+      {
+        "boy": "Denis Bazhenov",
+        "length": 6,
+        "date": "2023-03-16"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 27,
+        "date": "2023-03-16"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 27,
+        "date": "2023-03-16"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 8,
+        "date": "2023-03-16"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 23,
+        "date": "2023-03-16"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 21,
+        "date": "2023-03-16"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 9,
+        "date": "2023-03-16"
+      }
+    ],
+    "sum": 121,
+    "win": true
+  },
+  "2023-03-17": {
+    "measures": [
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 22,
+        "date": "2023-03-17"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 6,
+        "date": "2023-03-17"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 24,
+        "date": "2023-03-17"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 9,
+        "date": "2023-03-17"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 22,
+        "date": "2023-03-17"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 7,
+        "date": "2023-03-17"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 17,
+        "date": "2023-03-17"
+      }
+    ],
+    "sum": 107,
+    "win": true
+  },
+  "2023-03-18": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 11,
+        "date": "2023-03-18"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 17,
+        "date": "2023-03-18"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 26,
+        "date": "2023-03-18"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 23,
+        "date": "2023-03-18"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 11,
+        "date": "2023-03-18"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 12,
+        "date": "2023-03-18"
+      }
+    ],
+    "sum": 100,
+    "win": true
+  },
+  "2023-03-19": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 11,
+        "date": "2023-03-19"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 12,
+        "date": "2023-03-19"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 9,
+        "date": "2023-03-19"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 19,
+        "date": "2023-03-19"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 9,
+        "date": "2023-03-19"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 3,
+        "date": "2023-03-19"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 18,
+        "date": "2023-03-19"
+      }
+    ],
+    "sum": 81,
+    "win": false
+  },
+  "2023-03-20": {
+    "measures": [
+      {
+        "boy": "Sasha Terekhov",
+        "length": 21,
+        "date": "2023-03-20"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 38,
+        "date": "2023-03-20"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 48,
+        "date": "2023-03-20"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 3,
+        "date": "2023-03-20"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 21,
+        "date": "2023-03-20"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 46,
+        "date": "2023-03-20"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 20,
+        "date": "2023-03-20"
+      }
+    ],
+    "sum": 197,
+    "win": true
+  },
+  "2023-03-21": {
+    "measures": [
+      {
+        "boy": "Sasha Terekhov",
+        "length": 18,
+        "date": "2023-03-21"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 8,
+        "date": "2023-03-21"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 26,
+        "date": "2023-03-21"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 7,
+        "date": "2023-03-21"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 22,
+        "date": "2023-03-21"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 7,
+        "date": "2023-03-21"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 24,
+        "date": "2023-03-21"
+      }
+    ],
+    "sum": 112,
+    "win": true
+  },
+  "2023-03-22": {
+    "measures": [
+      {
+        "boy": "Vadim Davydov",
+        "length": 26,
+        "date": "2023-03-22"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 27,
+        "date": "2023-03-22"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-03-22"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 24,
+        "date": "2023-03-22"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 17,
+        "date": "2023-03-22"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 9,
+        "date": "2023-03-22"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 13,
+        "date": "2023-03-22"
+      }
+    ],
+    "sum": 122,
+    "win": true
+  },
+  "2023-03-23": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 26,
+        "date": "2023-03-23"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-03-23"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 11,
+        "date": "2023-03-23"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 4,
+        "date": "2023-03-23"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 6,
+        "date": "2023-03-23"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-03-23"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 23,
+        "date": "2023-03-23"
+      }
+    ],
+    "sum": 90,
+    "win": false
+  },
+  "2023-03-24": {
+    "measures": [
+      {
+        "boy": "Vadim Davydov",
+        "length": 0,
+        "date": "2023-03-24"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 26,
+        "date": "2023-03-24"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 24,
+        "date": "2023-03-24"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 24,
+        "date": "2023-03-24"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-03-24"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 11,
+        "date": "2023-03-24"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 5,
+        "date": "2023-03-24"
+      }
+    ],
+    "sum": 98,
+    "win": false
+  },
+  "2023-03-25": {
+    "measures": [
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 9,
+        "date": "2023-03-25"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-03-25"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 12,
+        "date": "2023-03-25"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 15,
+        "date": "2023-03-25"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 2,
+        "date": "2023-03-25"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 12,
+        "date": "2023-03-25"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 9,
+        "date": "2023-03-25"
+      }
+    ],
+    "sum": 65,
+    "win": false
+  },
+  "2023-03-26": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 17,
+        "date": "2023-03-26"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 10,
+        "date": "2023-03-26"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 8,
+        "date": "2023-03-26"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 10,
+        "date": "2023-03-26"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 27,
+        "date": "2023-03-26"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 8,
+        "date": "2023-03-26"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 21,
+        "date": "2023-03-26"
+      }
+    ],
+    "sum": 101,
+    "win": true
+  },
+  "2023-03-27": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 0,
+        "date": "2023-03-27"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 10,
+        "date": "2023-03-27"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 13,
+        "date": "2023-03-27"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-03-27"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 23,
+        "date": "2023-03-27"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 0,
+        "date": "2023-03-27"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 50,
+        "date": "2023-03-27"
+      }
+    ],
+    "sum": 102,
+    "win": true
+  },
+  "2023-03-28": {
+    "measures": [
+      {
+        "boy": "Denis Bazhenov",
+        "length": 10,
+        "date": "2023-03-28"
+      },
+      {
+        "boy": "Vadim Davydov",
+        "length": 1,
+        "date": "2023-03-28"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 23,
+        "date": "2023-03-28"
+      },
+      {
+        "boy": "Nikita Krasnoperov",
+        "length": 22,
+        "date": "2023-03-28"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 9,
+        "date": "2023-03-28"
+      },
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 22,
+        "date": "2023-03-28"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 4,
+        "date": "2023-03-28"
+      }
+    ],
+    "sum": 91,
+    "win": false
+  },
+  "2023-03-29": {
+    "measures": [
+      {
+        "boy": "Nikita Nechepurenko",
+        "length": 11,
+        "date": "2023-03-29"
+      },
+      {
+        "boy": "Sergey Gavrilenko",
+        "length": 19,
+        "date": "2023-03-29"
+      },
+      {
+        "boy": "Denis Bazhenov",
+        "length": 15,
+        "date": "2023-03-29"
+      },
+      {
+        "boy": "Ilya Litvinenko",
+        "length": 26,
+        "date": "2023-03-29"
+      },
+      {
+        "boy": "Sasha Terekhov",
+        "length": 6,
+        "date": "2023-03-29"
+      }
+    ],
+    "sum": 77,
+    "win": false
+  }
+}
